@@ -1,2 +1,11 @@
-# brain-permeability-prediction
-Projeto de aprendizado de máquina para a predição da permeabilidade de moléculas pela barreira hematoencefálica, utilizando dados do B3DB, descritores moleculares, comparação de pipelines de regressão, otimização de hiperparâmetros com Optuna e validação baseada em scaffolds moleculares.
+<img width="2480" height="254" alt="Cabecalho" src="https://github.com/user-attachments/assets/88a9125e-ce2e-428f-b913-f082ade21d68" />
+
+# Predição da Permeabilidade pela Barreira Hematoencefálica
+
+## Projeto da Disciplina de Aprendizado de Máquina
+
+Instituição de ensino vinculada à desenvolvedora do projeto: Ilum Escola de Ciência - CNPEM (Centro Nacional de Pesquisa em Energia e Materiais)
+
+## Autora
+
+Maria Clara Costa Ferreira
