@@ -14,7 +14,7 @@ Maria Clara Costa Ferreira
 
 Este projeto consiste na aplicação de algoritmos de aprendizado de máquina para a classificação de moléculas quanto à sua capacidade de atravessar a barreira hematoencefálica (Blood-Brain Barrier — BBB), utilizando descritores moleculares para representar suas características químicas e estruturais.
 
-O objetivo é desenvolver modelos capazes de prever se uma molécula apresenta permeabilidade à barreira hematoencefálica (BBB+) ou não (BBB−), a partir de suas propriedades moleculares. Para isso, são utilizados dados do dataset Tiamat, que reúne informações sobre moléculas e suas respectivas classificações de permeabilidade.
+O objetivo é desenvolver modelos capazes de prever se uma molécula apresenta permeabilidade à barreira hematoencefálica (BBB+) ou não (BBB−), a partir de suas propriedades moleculares. Para isso, são utilizados dados do dataset B3DB, que reúne informações sobre moléculas e suas respectivas classificações de permeabilidade.
 
 Foram desenvolvidos e comparados diferentes modelos de classificação, utilizando os algoritmos Logistic Regression, K-Nearest Neighbors (KNN) e Random Forest. Também foi utilizado o Dummy Classifier como modelo de referência (baseline).
 
